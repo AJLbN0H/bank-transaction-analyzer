@@ -19,5 +19,12 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/ВашАккаунт/bank-transaction-analyzer.git](https://github.com/ВашАккаунт/bank-transaction-analyzer.git)
+   ```git clone https://github.com/AJLbN0H/bank-transaction-analyzer.git```
+   
+3. Установите зависимости через Poetry:
+   ```poetry install```
+
+## Тестирование
+Проект полностью покрыт Unit-тестами. Для проверки корректности работы и покрытия выполните:
+```pytest --cov=src```
+Отчет о покрытии доступен в формате HTML (директория htmlcov).
