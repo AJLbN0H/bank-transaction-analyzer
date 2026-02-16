@@ -8,7 +8,7 @@
 
 Клонируйте репозиторий:
 ```
-git clone https://github.com/AJLbN0H/homework_10_1.git
+git clone https://github.com/AJLbN0H/bank-transaction-analyzer.git
 ```
 
 ## Примеры работы функций:
